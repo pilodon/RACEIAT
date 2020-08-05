@@ -39,7 +39,7 @@ define(['pipAPI', 'https://pilodon.github.io/RACEIAT/definition.js/mainIAT.js'],
 		},	
 
 		base_url : {//Where are your images at?
-			image : 'https://github.com/pilodon/RACEIAT/'
+			image : 'https://pilodon.github.io/RACEIAT/'
 		} 
 	});
 });
